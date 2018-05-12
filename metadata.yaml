@@ -16,6 +16,8 @@ creator:
     wikipedia: http://www.readseries.com/auth-dm/finley1.html
 description: Sixteen year old Mildred moves with her family to Indiana where her family
   suffers a terrible time of sickness.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42870#Mildred-Keith
 gutenberg_issued: '2013-06-04'
 gutenberg_type: Text
 identifiers:
